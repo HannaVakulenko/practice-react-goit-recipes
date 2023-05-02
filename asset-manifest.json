@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-react-goit-recipes/static/css/main.c3d5249d.css",
+    "main.js": "/practice-react-goit-recipes/static/js/main.5b55aca6.js",
+    "index.html": "/practice-react-goit-recipes/index.html",
+    "main.c3d5249d.css.map": "/practice-react-goit-recipes/static/css/main.c3d5249d.css.map",
+    "main.5b55aca6.js.map": "/practice-react-goit-recipes/static/js/main.5b55aca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.5b55aca6.js"
+  ]
+}
